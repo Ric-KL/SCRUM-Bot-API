@@ -1,0 +1,7 @@
+{
+    "startMSG" : "Start Message Ran" ,
+    "formReply" : "Form Message Ran",
+    "goodReply" : "Good Message Ran",
+    "okReply" : "OK Message Ran",
+    "badReply" : "Bad Message Ran"
+}
